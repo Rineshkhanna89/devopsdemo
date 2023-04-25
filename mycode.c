@@ -4,4 +4,8 @@ main()
 	{
 		printf("This is Function 1");
 	}
+	Function3()
+	{
+		printf("This is Function 3");
+	}
 }	
